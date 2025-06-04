@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 Технології та інструменти
+### 🧰 Technologies and tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
@@ -21,7 +21,7 @@
 
 ---
 
-### 📫 Зв’язатися зі мною
+### 📫 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_telegram)
