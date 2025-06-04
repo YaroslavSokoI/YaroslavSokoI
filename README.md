@@ -21,15 +21,6 @@
 
 ---
 
-### 📈 Моя статистика
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavSokoI&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavSokoI&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Зв’язатися зі мною
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
