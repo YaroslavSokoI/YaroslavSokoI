@@ -1,7 +1,7 @@
 <h1 align="center">Yaroslav Sokol</h1>
 
 <p align="center">
-  🧑‍💻 Web-Developer | 🔥 HTML, CSS, JavaScript | ⚙️ React, Node.js
+  🧑‍💻 Web-Developer | 🔥 Full Stack Developer | ⚙️ React, Node.js
 </p>
 
 ---
